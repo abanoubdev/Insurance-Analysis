@@ -31,7 +31,7 @@ The real story is more exposure, not deadlier sharks. More people in the water, 
 - Old records are probably incomplete
 - This only covers Australia.
 
-
+--------------------------------------------------------------------------------------------------------------
 **H2 — Volume vs fatality rate across countries**
 
 **Findings:**
@@ -71,7 +71,7 @@ Small samples;
 Historical data spans centuries.
 
 
-
+--------------------------------------------------------------------------------------------------------------
 **H3 — Fatality rate by age**
 
 **Findings:**
@@ -105,7 +105,7 @@ The driver for older victims is likely survivability, not attack frequency — o
 
 
 
-
+--------------------------------------------------------------------------------------------------------------
 **H4 — Overall Incident profile**
 
 **Findings:**
