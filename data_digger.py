@@ -122,6 +122,6 @@ def run_summary(df):
     # Final Insights
     print("-" * 80)
     print("ANALYSIS READY FOR HYPOTHESIS TESTING:")
-    print(f"1. Demographic: Avg. Age of victims is {df['Age_Clean'].mean():.1f} years.")
+    print(f"1. Demographic: Avg. Age is {df['Age_Clean'].mean():.1f} years.")
     print(f"2. Regional: {country_counts.iloc[0]['Country']} remains the highest risk market.")
     print(f"3. Integrity: All Null Ages and Duplicate records have been purged.")
